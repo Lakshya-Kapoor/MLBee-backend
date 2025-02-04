@@ -1,0 +1,5 @@
+beanie==1.29.0
+httpx==0.28.1
+pydantic==2.10.5
+typing_extensions==4.12.2
+google-generativeai==0.8.3
